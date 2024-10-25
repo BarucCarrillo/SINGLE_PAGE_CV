@@ -1,0 +1,17 @@
+*{
+    margin: 2% 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4{
+    color: #248b3a;
+}
+
+h3{
+    color: #0959c9;
+}
+
+a{
+    color: #0959c9;
+    text-decoration: none;
+}
